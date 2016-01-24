@@ -1,6 +1,7 @@
 /Temp/
 /Library/
 /Obj/
+/bin/
 
 *.csproj
 *.unityproj
