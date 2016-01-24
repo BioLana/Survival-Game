@@ -1,7 +1,10 @@
 /Temp/
+/temp/
 /Library/
 /Obj/
+/obj/
 /bin/
+/StandardAssets/
 
 *.csproj
 *.unityproj
