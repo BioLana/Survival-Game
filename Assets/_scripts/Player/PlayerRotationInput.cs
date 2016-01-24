@@ -18,8 +18,8 @@ public class PlayerRotationInput : MonoBehaviour {
 
 	const float				HeadingSensitivity			=		0.5f;
 	const float				PitchSensitivity			=		0.5f;
-	const float				PitchMax					=		85.0f;
-	const float				PitchMin					=		-80.0f;
+	const float				PitchMax					=		60.0f;
+	const float				PitchMin					=		-60.0f;
 
 	float					heading						=		0.0f;
 	float					pitch						=		0.0f;
