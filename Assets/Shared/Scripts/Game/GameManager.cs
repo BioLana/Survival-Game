@@ -42,6 +42,8 @@ public class GameManager : MonoBehaviour {
 	void Start () {
 		playerRotationScript = player.GetComponent<PlayerRotationInput> ();
 		playerMovementScript = player.GetComponent<PlayerMovementInput> ();
+		Debug.Log (playerRotationScript);
+		Debug.Log (playerMovementScript);
 		GamePaused = false;
 
 	}
