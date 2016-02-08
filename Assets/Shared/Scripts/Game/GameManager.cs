@@ -21,7 +21,7 @@ public class GameManager : MonoBehaviour {
 			if (value) {
 				lockMode = CursorLockMode.None;
 			} else if (!value) {
-				lockMode = CursorLockMode.Confined;
+				lockMode = CursorLockMode.Locked;
 			}
 			Cursor.lockState = lockMode;
 		}

@@ -12,7 +12,7 @@ public class PlayerRotationInput : MonoBehaviour {
 	bool					isFirstPerson 				= 		true;
 
 	// Below values aren't used yet - need to set manually
-	//const float 			FirstPersonHeadOffset 		= 		0.5f;
+	//const float 			    FirstPersonHeadOffset 		= 		0.5f;
 	//public const float		ThirdPersonXCamOffset 		= 		0.5f;
 	//public const float		ThirdPersonYCamOffset 		= 		0.5f;
 	//public const float		ThirdPersonZCamOffset 		= 		0.5f;
